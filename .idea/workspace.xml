@@ -5,17 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1511dc21-87e2-465b-9340-e9c4c031e2a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/atv4solid.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/SRP/ex01/Estudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/SRP/ex01/ExibidorEstudante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/SRP/ex01/GerenciadorDePersistencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex01/CalculadoraDeSalario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex01/CalculoSalario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex01/CalculoSalarioEstagiario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex01/CalculoSalarioGerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,7 +41,7 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/guilhermy.rodrigues/Downloads/atv4solid",
     "onboarding.tips.debug.path": "C:/Users/guilhermy.rodrigues/Downloads/atv1arq/atv4solid/src/Main.java"
