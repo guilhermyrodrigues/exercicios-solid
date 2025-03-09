@@ -5,10 +5,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1511dc21-87e2-465b-9340-e9c4c031e2a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex01/CalculadoraDeSalario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex01/CalculoSalario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex01/CalculoSalarioEstagiario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex01/CalculoSalarioGerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/DIP/ex01/Interruptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/DIP/ex01/Lampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/DIP/ex01/LampadaIncandescente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/DIP/ex02/Arquivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/DIP/ex02/ArquivoTexto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/DIP/ex02/Leitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/DIP/ex03/Caixa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/DIP/ex03/Pagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/DIP/ex03/PagamentoCartao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/ISP/ex01/Ligavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/ISP/ex01/MaquinaManual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/ISP/ex01/MaquinaModerna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/ISP/ex01/Processante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/ISP/ex02/Dispositivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/ISP/ex02/DispositivoConectavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/ISP/ex02/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/ISP/ex02/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/ISP/ex03/Apagavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/ISP/ex03/Borracha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/ISP/ex03/Caneta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/ISP/ex03/Escrevivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/LSP/ex01/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/LSP/ex01/Pinguim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/LSP/ex02/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/LSP/ex02/ContaComSaque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/LSP/ex02/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/LSP/ex02/ContaSomenteDeposito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/LSP/ex03/Impressora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/LSP/ex03/ImpressoraBasica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/LSP/ex03/ImpressoraModerna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex02/Formatador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex02/FormatadorTexto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex02/MaiusculaFormatador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex02/NegritorFormatador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex03/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex03/CalculadoraFrete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex03/FreteExpresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/OCP/ex03/FreteNormal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/SRP/ex02/CalculaImposto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/SRP/ex02/GerarRecibo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/SRP/ex02/Venda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/SRP/ex03/EnviarNotificacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/SRP/ex03/FormatarMensagem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SOLID/SRP/ex03/Notificacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +83,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/guilhermy.rodrigues/Downloads/atv4solid",
+    "last_opened_file_path": "C:/Users/Guilhermy Rodrigues/Downloads/exercicios-solid",
     "onboarding.tips.debug.path": "C:/Users/guilhermy.rodrigues/Downloads/atv1arq/atv4solid/src/Main.java"
   }
 }]]></component>
