@@ -16,4 +16,12 @@ public class Venda {
     public String getProduto() {
         return produto;
     }
+
+    @Override
+    public String toString() {
+        return "Venda{" +
+                "valor=" + valor +
+                ", produto='" + produto + '\'' +
+                '}';
+    }
 }

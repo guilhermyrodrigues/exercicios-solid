@@ -1,9 +1,9 @@
 package SOLID.SRP.ex03;
 
-public class Notificacao {
+public class NotificacaoMensagem {
     private String mensagem;
 
-    public Notificacao(String mensagem) {
+    public NotificacaoMensagem(String mensagem) {
         this.mensagem = mensagem;
     }
 
