@@ -4,5 +4,10 @@ public class Pinguim extends Animal{
     @Override
     public void mover() {
         System.out.println("O Pinguim se move pela terra.");
+
+    }
+
+    public Pinguim() {
+
     }
 }
